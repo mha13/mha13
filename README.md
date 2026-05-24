@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hossein
-### Full-Stack Developer · AI Integration · WordPress Plugin Engineer
+### Full-Stack Developer · AI Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadhossein-abdollahi-155a79224/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mha13)
@@ -19,7 +19,8 @@ Full-stack web developer based in **Torino, Italy** with 4+ years building produ
 I specialise in:
 - 🤖 **AI-powered WordPress plugins** — OpenAI API, Firebase real-time systems, human escalation flows
 - 🔧 **Custom PHP/JS plugin development** — from PDF generators to IoT dashboards
-- 🛒 **E-commerce platforms** — Shopify, WooCommerce, custom REST integrations
+- ⚙️ **Backend engineering** — REST APIs, Laravel, Node.js, MySQL schema design, NoSQL→SQL migrations, server-side PHP with performance optimisation
+- 🛒 **E-commerce platforms** — Shopify, WooCommerce, custom REST integrations, payment gateway integration
 - 📐 **UI/UX** — Figma, responsive React frontends, performance optimisation
 
 Currently working at **Hidoly (Torino)** and actively learning **TypeScript · Next.js · Docker**.
@@ -55,6 +56,8 @@ OpenAI API  ──►  WordPress Plugin  ──►  Firebase Realtime DB
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -66,14 +69,18 @@ OpenAI API  ──►  WordPress Plugin  ──►  Firebase Realtime DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 
 ### Platforms & Tools
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 
 ### Currently Learning 🔥
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
