@@ -20,10 +20,11 @@ I specialise in:
 - 🤖 **AI-powered WordPress plugins** — OpenAI API, Firebase real-time systems, human escalation flows
 - 🔧 **Custom PHP/JS plugin development** — from PDF generators to IoT dashboards
 - ⚙️ **Backend engineering** — REST APIs, Laravel, Node.js, MySQL schema design, NoSQL→SQL migrations, server-side PHP with performance optimisation
+- 🎨 **Frontend development** — React.js, JavaScript (ES6+), HTML5, CSS3, responsive design, Bootstrap, Tailwind CSS
 - 🛒 **E-commerce platforms** — Shopify, WooCommerce, custom REST integrations, payment gateway integration
-- 📐 **UI/UX** — Figma, responsive React frontends, performance optimisation
+- 📐 **UI/UX** — Figma, wireframing, user testing, performance optimisation
 
-Currently working at **Hidoly (Torino)** and actively learning **TypeScript · Next.js · Docker**.
+Actively learning **TypeScript · Next.js · Docker**.
 
 ---
 
